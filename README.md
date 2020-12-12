@@ -27,7 +27,10 @@
     </a>
 </p>
 
-👤 **Hebert F Barros**
+<h6 align="center">
 
-- Github:   [@GabrielAdamy](https://github.com/GabrielAdamy)
-- LinkedIn: [@gabriel-adamy](https://www.linkedin.com/in/gabriel-adamy)
+  👤 **Gabriel Adamy**
+
+Github:   [@GabrielAdamy](https://github.com/GabrielAdamy)
+LinkedIn: [@gabriel-adamy](https://www.linkedin.com/in/gabriel-adamy) 
+</h6>
