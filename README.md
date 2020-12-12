@@ -3,7 +3,13 @@
 
 <h6 align="center">Site desenvolvido no bootcamp da nlw</h6>
 
-<p align="center"><a href="https://adonisjs.com"><p align="center"><img src="adonis-js-seeklogo.com.svg" width="400"></p></a></p>
+<h1 align="center">
+  <br>
+  <a href="https://github.com/hebertcisco/happy/"><img src="https://raw.githubusercontent.com/hebertcisco/happy/master/web/src/images/logo.svg" alt="Welcome to Happy 👋" width="200"></a>
+  <br>
+  Welcome to Happy 👋
+  <br>
+</h1>
 
 <p align="center">Development of an Ecommerce Using the 🚀<a href="https://adonisjs.com">Adonis.js</a> Framework</p>
 
