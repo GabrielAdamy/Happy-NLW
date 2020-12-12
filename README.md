@@ -5,7 +5,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://github.com/GabrielAdamy/Happy-nlw"><img src="https://raw.githubusercontent.com/GabrielAdamy/Happy-nlw/master/public/images/logo.svg" alt="Welcome to Happy 👋" width="200"></a>
+    <a href="https://github.com/GabrielAdamy/Happy-nlw"><img src="https://raw.githubusercontent.com/GabrielAdamy/Happy-nlw/master/public/images/logo.svg" alt="Welcome to Happy 👋" width="200"></a>
   <br>
   Welcome to Happy 👋
   <br>
@@ -18,15 +18,14 @@
     </a>
     <a href="#">
         <img alt="License" src="https://img.shields.io/github/languages/count/GabrielAdamy/Happy-nlw">
+    </a>     
+    <a href="#">
+        <img alt="License" src="https://img.shields.io/github/last-commit/GabrielAdamy/Happy-nlw">
     </a>
     <a href="#">
-        <img alt="License" src="https://img.shields.io/github/last-commit/MagicalStrangeQuark/ecommerce-adonis">
-    </a>
-    <a href="#">
-        <img alt="License" src="https://img.shields.io/github/followers/MagicalStrangeQuark?style=social">
+        <img alt="License" src="https://img.shields.io/github/followers/GabrielAdamy?style=social">
     </a>
 </p>
-
 <h6 align="center">
 
   👤 **Gabriel Adamy**
