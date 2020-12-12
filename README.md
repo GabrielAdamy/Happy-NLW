@@ -5,13 +5,12 @@
 
 <h1 align="center">
   <br>
-  <a href="https://github.com/hebertcisco/happy/"><img src="https://raw.githubusercontent.com/hebertcisco/happy/master/web/src/images/logo.svg" alt="Welcome to Happy 👋" width="200"></a>
+  <a href="https://github.com/GabrielAdamy/Happy-nlw"><img src="https://raw.githubusercontent.com/GabrielAdamy/Happy-nlw/master/public/images/logo.svg" alt="Welcome to Happy 👋" width="200"></a>
   <br>
   Welcome to Happy 👋
   <br>
 </h1>
 
-<p align="center">Development of an Ecommerce Using the 🚀<a href="https://adonisjs.com">Adonis.js</a> Framework</p>
 
 <p align="center">
     <a href="https://opensource.org/licenses/MIT">
@@ -27,3 +26,8 @@
         <img alt="License" src="https://img.shields.io/github/followers/MagicalStrangeQuark?style=social">
     </a>
 </p>
+
+👤 **Hebert F Barros**
+
+- Github:   [@GabrielAdamy](https://github.com/GabrielAdamy)
+- LinkedIn: [@gabriel-adamy](https://www.linkedin.com/in/gabriel-adamy)
